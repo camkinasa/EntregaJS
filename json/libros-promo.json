@@ -1,0 +1,74 @@
+[
+    {
+        "id": 17,
+        "titulo": "Pieles reales",
+        "autor": "Dadatina",
+        "genero": "Salud",
+        "precio": 1400,
+        "stock": 55,
+        "imagen": "../img/pieles-reales.jpg"
+    },
+    {
+        "id": 18,
+        "titulo": "Solas (aún acompañadas)",
+        "autor": "María Florencia Freijo",
+        "genero": "Feminismo",
+        "precio": 1200,
+        "stock": 100,
+        "imagen": "../img/solas.jpg"
+    },
+    {
+        "id": 19,
+        "titulo": "Maleducadas",
+        "autor": "María Florencia Freijo",
+        "genero": "Feminismo",
+        "precio": 1600,
+        "stock": 5,
+        "imagen": "../img/mal-educadas.jpg"
+    },
+    {
+        "id": 20,
+        "titulo": "Mal comidos",
+        "autor": "Soledad Barruti",
+        "genero": "Actualidad",
+        "precio": 1500,
+        "stock": 30,
+        "imagen": "../img/mal-comidos.jpg"
+    },
+    {
+        "id": 21,
+        "titulo": "Mala leche",
+        "autor": "Soledad Barruti",
+        "genero": "Actualidad",
+        "precio": 1300,
+        "stock": 100,
+        "imagen": "../img/mala-leche.jpg"
+    },
+    {
+        "id": 22,
+        "titulo": "Sexo ATR",
+        "autor": "Lic. Cecilia Ce",
+        "genero": "Sexología",
+        "precio": 1000,
+        "stock": 30,
+        "imagen": "../img/sexo-atr.jpg"
+    },
+    {
+        "id": 23,
+        "titulo": "Cornelia",
+        "autor": "Florencia Etchevez",
+        "genero": "Policial",
+        "precio": 1100,
+        "stock": 32,
+        "imagen": "../img/cornelia.jpg"
+    },
+    {
+        "id": 24,
+        "titulo": "La sirena",
+        "autor": "Florencia Etchevez",
+        "genero": "Policial",
+        "precio": 1200,
+        "stock": 20,
+        "imagen": "../img/la-sirena.jpg"
+    }
+]
