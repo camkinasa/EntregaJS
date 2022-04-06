@@ -182,6 +182,17 @@ botonVaciar.addEventListener("click", () => {
     actualizarCarrito()
 })
 
+let botonComprar = document.getElementById("comprar")
+botonComprar.addEventListener("click", () => {
+    if(carrito.length > 0){
+        swal("Compra realizada con éxito!", "Felicidades", "success")
+    }
+    else{
+        swal(`Error: debe añadir un producto al carrito para realizar la compra`)
+    }
+
+})
+
 //Modal carrito
 
 const contenedorModal = document.getElementsByClassName('modal-contenedor')[0]
